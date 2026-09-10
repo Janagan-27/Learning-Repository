@@ -1,1 +1,2 @@
-Hello Everyone,, This is the V1 of a1.txt
+Hello Everyone,, This is the V1 of a1.txt.
+Hii, In this session, I learn GIT&GitHub
